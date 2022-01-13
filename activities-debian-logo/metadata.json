@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.38"],
+    "uuid": "activities-debian-logo",
+    "name": "Activities Debian logo",
+    "description": "Show Debian logo in Activites menu.",
+    "original-authors": "Akos Danczak"
+}

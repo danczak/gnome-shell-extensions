@@ -1,0 +1,8 @@
+{
+	"uuid": "workspace-isolated-dash",
+	"name": "Workspace Isolated Dash",
+	"description": "Isolate workspaces",
+	"shell-version": [ "3.38"],
+	"settings-schema": "org.gnome.shell.extensions.workspace-isolated-dash",
+	"url": "https://github.com/N-Yuki/gnome-shell-extension-workspace-isolated-dash"
+}
